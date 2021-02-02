@@ -8,8 +8,8 @@
 >Html |
 >Css |
 >JavaScript |
-> Node.js
->Express.js
+> Node.js |
+>Express.js |
 ## Link to Application
 [Note-Taker](https://young-lake-20601.herokuapp.com/)
 
